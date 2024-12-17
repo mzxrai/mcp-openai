@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that lets you seamlessly use OpenAI's models right from Claude.
 
+<a href="https://glama.ai/mcp/servers/riynwmasx9"><img width="380" height="200" src="https://glama.ai/mcp/servers/riynwmasx9/badge" alt="OpenAI Server MCP server" /></a>
+
 ## Features
 
 - Direct integration with OpenAI's chat models
